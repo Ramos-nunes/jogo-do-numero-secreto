@@ -1,9 +1,13 @@
-<h1 align="center"> AMIGO SECRETO </h1>
+<h1 align="center"> README AMIGO SECRETO </h1>
+
+<img width="1692" height="545" alt="imagem amigo secreto" src="https://github.com/user-attachments/assets/184c6936-6ded-4687-bcd1-16b5ee735782" />
 
 O que o projeto faz?
 
 O projeto "Amigo Secreto" é um programa simples que permite adicionar nomes de amigos, exibir uma lista de participantes e realizar um sorteio completo de amigo secreto, onde cada pessoa tira outra sem sortear a si mesma. Ele foi atualizado a partir de uma versão original que só sortea um nome aleatoriamente, passando a incluir pares de "quem tirou quem". O programa também oferece funcionalidades como contador de participantes, botão para limpar a lista e mensagens de erro na tela, sendo ideal para atividades lúdicas e educativas.
- 
+
+ <img width="1328" height="662" alt="imagem amigo secreto1" src="https://github.com/user-attachments/assets/5dc357c2-ff3f-4b00-8893-7010a62661cf" />
+
 Por que o projeto é útil?
 
 Esse projeto é útil porque transforma uma ideia básica em uma ferramenta interativa e prática, perfeita para brincadeiras de amigo secreto ou atividades pedagógicas, como na Educação Profissional e Tecnológica (EPT) ou cursos de lógica de programação da Alura. As melhorias na usabilidade, como validação de duplicatas e sorteio completo, evitam erros e tornam a experiência mais divertida. Além disso, a integração com um contexto educativo promove a interação entre alunos, servindo como exemplo de metodologia ativa.
